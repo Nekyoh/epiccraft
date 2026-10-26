@@ -1,0 +1,6 @@
+{
+  "parent": "epiccraft:item/generic_weapon_blocking",
+  "textures": {
+    "layer0": "epiccraft:item/frying_pan"
+  }
+}

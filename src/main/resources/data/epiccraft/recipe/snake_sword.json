@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "E": {
+      "item": "minecraft:spider_eye"
+    },
+    "I": {
+      "item": "minecraft:iron_sword"
+    }
+  },
+  "pattern": [
+    " E ",
+    "EIE",
+    " E "
+  ],
+  "result": {
+    "count": 1,
+    "id": "epiccraft:snake_sword"
+  },
+  "show_notification": true
+}

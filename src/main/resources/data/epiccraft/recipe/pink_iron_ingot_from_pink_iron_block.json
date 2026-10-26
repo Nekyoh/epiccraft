@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "pink_iron",
+  "ingredients": [
+    {
+      "item": "epiccraft:pink_iron_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "epiccraft:pink_iron_ingot"
+  }
+}

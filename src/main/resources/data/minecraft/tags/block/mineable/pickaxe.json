@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "epiccraft:nezonita_ore",
+    "epiccraft:nezonita_crystal",
+    "epiccraft:nezonita_block",
+    "epiccraft:tekynita_ore",
+    "epiccraft:tekynita_crystal",
+    "epiccraft:tekynita_block",
+    "epiccraft:chiseled_emerald_block",
+    "epiccraft:ruby_ore",
+    "epiccraft:deepslate_ruby_ore",
+    "epiccraft:ruby_block",
+    "epiccraft:saphire_ore",
+    "epiccraft:deepslate_saphire_ore",
+    "epiccraft:saphire_block",
+    "epiccraft:pink_iron_block",
+    "epiccraft:copper_chain"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "epiccraft:netherite_stick"
+    },
+    "X": {
+      "item": "epiccraft:tekynita_ingot"
+    }
+  },
+  "pattern": [
+    "X",
+    "#",
+    "#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "epiccraft:tekynita_shovel"
+  },
+  "show_notification": true
+}

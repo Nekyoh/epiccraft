@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "epiccraft:emerald_chestplate",
+    "epiccraft:ruby_chestplate",
+    "epiccraft:saphire_chestplate",
+    "epiccraft:amethyst_chestplate",
+    "epiccraft:nezonita_chestplate",
+    "epiccraft:tekynita_chestplate",
+    "epiccraft:copper_chestplate",
+    "epiccraft:pink_iron_chestplate"
+  ]
+}

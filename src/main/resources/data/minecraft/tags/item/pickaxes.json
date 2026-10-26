@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "epiccraft:emerald_pickaxe",
+    "epiccraft:ruby_pickaxe",
+    "epiccraft:saphire_pickaxe",
+    "epiccraft:amethyst_pickaxe",
+    "epiccraft:nezonita_pickaxe",
+    "epiccraft:tekynita_pickaxe",
+    "epiccraft:copper_pickaxe",
+    "epiccraft:pink_iron_pickaxe"
+  ]
+}

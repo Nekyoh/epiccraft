@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "epiccraft:wooden_dagger",
+    "epiccraft:stone_dagger",
+    "epiccraft:iron_dagger",
+    "epiccraft:copper_dagger",
+    "epiccraft:golden_dagger",
+    "epiccraft:diamond_dagger",
+    "epiccraft:netherite_dagger",
+    "epiccraft:nezonita_dagger",
+    "epiccraft:tekynita_dagger",
+    "epiccraft:vampiric_dagger"
+  ]
+}

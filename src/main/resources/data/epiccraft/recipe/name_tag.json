@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "N": {
+      "tag": "epiccraft:nuggets"
+    }
+  },
+  "pattern": [
+    "N ",
+    " P"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:name_tag"
+  },
+  "show_notification": true
+}

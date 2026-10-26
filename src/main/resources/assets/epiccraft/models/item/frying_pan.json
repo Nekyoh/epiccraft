@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "epiccraft:item/frying_pan"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "epiccraft:blocking": 1
+      },
+      "model": "epiccraft:item/frying_pan_blocking"
+    }
+  ]
+}

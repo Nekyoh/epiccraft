@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "epiccraft:emerald_boots",
+    "epiccraft:ruby_boots",
+    "epiccraft:saphire_boots",
+    "epiccraft:amethyst_boots",
+    "epiccraft:nezonita_boots",
+    "epiccraft:tekynita_boots",
+    "epiccraft:copper_boots",
+    "epiccraft:pink_iron_boots"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "N": {
+      "item": "minecraft:iron_nugget"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "N",
+    "I",
+    "S"
+  ],
+  "result": {
+    "count": 4,
+    "id": "epiccraft:kunai"
+  },
+  "show_notification": true
+}

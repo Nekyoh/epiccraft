@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "epiccraft:nezonita_ore",
+    "epiccraft:nezonita_crystal",
+    "epiccraft:tekynita_ore",
+    "epiccraft:tekynita_crystal",
+
+    "epiccraft:nezonita_block",
+    "epiccraft:tekynita_block"
+  ]
+}

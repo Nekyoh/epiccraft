@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "base": {
+    "item": "epiccraft:tekynita_crystal"
+  },
+  "result": {
+    "id": "epiccraft:tekynita_ingot"
+  },
+  "template": {
+    "item": "epiccraft:philosofer_stone"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "epiccraft:ruby_ore",
+    "epiccraft:deepslate_ruby_ore",
+    "epiccraft:saphire_ore",
+    "epiccraft:deepslate_saphire_ore",
+    "epiccraft:nezonita_ore",
+    "epiccraft:tekynita_ore"
+  ]
+}

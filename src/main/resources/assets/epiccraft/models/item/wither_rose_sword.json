@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "epiccraft:item/wither_rose_sword"
+  }
+}

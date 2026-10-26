@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "epiccraft:tekynita_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "epiccraft:tekynita_ingot"
+  }
+}

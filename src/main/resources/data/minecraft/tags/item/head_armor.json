@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "epiccraft:emerald_helmet",
+    "epiccraft:ruby_helmet",
+    "epiccraft:saphire_helmet",
+    "epiccraft:amethyst_helmet",
+    "epiccraft:nezonita_helmet",
+    "epiccraft:tekynita_helmet",
+    "epiccraft:copper_helmet",
+    "epiccraft:pink_iron_helmet"
+  ]
+}

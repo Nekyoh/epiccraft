@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "W": {
+      "item": "minecraft:wither_rose"
+    },
+    "I": {
+      "item": "minecraft:iron_sword"
+    }
+  },
+  "pattern": [
+    " W ",
+    "WIW",
+    " W "
+  ],
+  "result": {
+    "count": 1,
+    "id": "epiccraft:wither_rose_sword"
+  },
+  "show_notification": true
+}

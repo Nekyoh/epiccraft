@@ -1,0 +1,11 @@
+{
+  "loader": "neoforge:separate_transforms",
+  "base": {
+    "parent": "epiccraft:item/mjolnir_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "epiccraft:item/mjolnir_gui"
+    }
+  }
+}

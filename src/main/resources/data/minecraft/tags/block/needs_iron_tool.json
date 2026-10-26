@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "epiccraft:chiseled_emerald_block",
+    "epiccraft:ruby_ore",
+    "epiccraft:deepslate_ruby_ore",
+    "epiccraft:ruby_block",
+    "epiccraft:saphire_ore",
+    "epiccraft:deepslate_saphire_ore",
+    "epiccraft:saphire_block"
+  ]
+}

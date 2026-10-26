@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "epiccraft:netherite_stick"
+    },
+    "X": {
+      "item": "epiccraft:nezonita_ingot"
+    }
+  },
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "epiccraft:nezonita_pickaxe"
+  },
+  "show_notification": true
+}

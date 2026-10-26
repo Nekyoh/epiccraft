@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "epiccraft:ore_ruby",
+    "epiccraft:ore_saphire",
+    "epiccraft:ore_tekynita"
+  ],
+  "step": "underground_ores"
+}

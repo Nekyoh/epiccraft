@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "copper_ingot",
+  "key": {
+    "#": {
+      "item": "epiccraft:copper_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:copper_ingot"
+  },
+  "show_notification": true
+}

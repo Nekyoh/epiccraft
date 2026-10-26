@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "epiccraft:emerald_axe",
+    "epiccraft:ruby_axe",
+    "epiccraft:saphire_axe",
+    "epiccraft:amethyst_axe",
+    "epiccraft:nezonita_axe",
+    "epiccraft:tekynita_axe",
+    "epiccraft:copper_axe",
+    "epiccraft:brute_battle_axe",
+    "epiccraft:pink_iron_axe"
+  ]
+}

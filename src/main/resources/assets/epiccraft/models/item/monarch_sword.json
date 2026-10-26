@@ -1,0 +1,93 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "epiccraft:item/monarch_sword"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        55
+      ],
+      "translation": [
+        0,
+        10.39,
+        -0.63
+      ],
+      "scale": [
+        1.615,
+        1.615,
+        1.615
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        90,
+        -55
+      ],
+      "translation": [
+        0,
+        10.39,
+        -0.63
+      ],
+      "scale": [
+        1.615,
+        1.615,
+        1.615
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        25
+      ],
+      "translation": [
+        1.13,
+        8.08,
+        2.91
+      ],
+      "scale": [
+        1.292,
+        1.292,
+        1.292
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        90,
+        -25
+      ],
+      "translation": [
+        1.13,
+        8.08,
+        2.91
+      ],
+      "scale": [
+        1.292,
+        1.292,
+        1.292
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        2,
+        0
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "epiccraft:chiseled_emerald_block",
+    "epiccraft:ruby_block",
+    "epiccraft:saphire_block",
+    "epiccraft:nezonita_block",
+    "epiccraft:tekynita_block",
+    "epiccraft:pink_iron_block"
+  ]
+}

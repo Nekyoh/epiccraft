@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "epiccraft:emerald_helmet",
+    "epiccraft:emerald_chestplate",
+    "epiccraft:emerald_leggings",
+    "epiccraft:emerald_boots"
+  ]
+}

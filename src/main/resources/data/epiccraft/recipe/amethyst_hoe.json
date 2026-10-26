@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "epiccraft:quartz_stick"
+    },
+    "X": {
+      "item": "minecraft:amethyst_cluster"
+    }
+  },
+  "pattern": [
+    "XX",
+    " #",
+    " #"
+  ],
+  "result": {
+    "count": 1,
+    "id": "epiccraft:amethyst_hoe"
+  },
+  "show_notification": true
+}

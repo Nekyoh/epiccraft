@@ -1,0 +1,15 @@
+{
+  "type": "epiccraft:add_item",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:entities/turtle"
+    },
+    {
+      "condition": "minecraft:random_chance",
+      "chance": 0.01
+    }
+  ],
+  "item": "epiccraft:straw",
+  "count": 1
+}

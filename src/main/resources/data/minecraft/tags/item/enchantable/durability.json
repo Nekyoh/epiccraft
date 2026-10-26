@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "epiccraft:mjolnir",
+    "epiccraft:crowbar",
+    "epiccraft:bass",
+    "epiccraft:wrench",
+    "epiccraft:umbrella"
+  ]
+}

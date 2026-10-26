@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "item": "minecraft:blaze_powder"
+    },
+    "R": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "pattern": [
+    "P",
+    "P",
+    "R"
+  ],
+  "result": {
+    "count": 1,
+    "id": "epiccraft:blaze_sword"
+  },
+  "show_notification": true
+}

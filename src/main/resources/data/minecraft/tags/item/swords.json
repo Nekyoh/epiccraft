@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "epiccraft:emerald_sword",
+    "epiccraft:ruby_sword",
+    "epiccraft:saphire_sword",
+    "epiccraft:amethyst_sword",
+    "epiccraft:nezonita_sword",
+    "epiccraft:nezonita_scythe",
+    "epiccraft:tekynita_sword",
+    "epiccraft:straw_sword",
+    "epiccraft:glass_sword",
+    "epiccraft:copper_sword",
+    "epiccraft:katana",
+    "epiccraft:rose_bush_sword",
+    "epiccraft:pink_iron_sword",
+    "epiccraft:baseball_bat",
+    "epiccraft:dark_katana",
+    "epiccraft:blaze_sword",
+    "epiccraft:creeper_sword",
+    "epiccraft:enderman_sword",
+    "epiccraft:firework_sword",
+    "epiccraft:guardian_sword",
+    "epiccraft:jet",
+    "epiccraft:monarch_sword",
+    "epiccraft:snake_sword",
+    "epiccraft:warden_sword",
+    "epiccraft:wither_rose_sword",
+    "epiccraft:inventor_wrench",
+    "epiccraft:frying_pan",
+    "#epiccraft:daggers"
+  ]
+}

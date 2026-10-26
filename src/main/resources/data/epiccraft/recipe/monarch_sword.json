@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "T": {
+      "item": "epiccraft:tekynita_ingot"
+    },
+    "Z": {
+      "item": "epiccraft:nezonita_sword"
+    },
+    "R": {
+      "item": "epiccraft:netherite_stick"
+    }
+  },
+  "pattern": [
+    " N ",
+    "TZT",
+    " R "
+  ],
+  "result": {
+    "count": 1,
+    "id": "epiccraft:monarch_sword"
+  },
+  "show_notification": true
+}

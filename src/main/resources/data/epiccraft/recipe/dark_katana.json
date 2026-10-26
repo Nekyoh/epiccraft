@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "O": {
+      "item": "epiccraft:obsidian_shard"
+    },
+    "K": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "S": {
+      "item": "epiccraft:netherite_stick"
+    }
+  },
+  "pattern": [
+    "  O",
+    " K ",
+    "S  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "epiccraft:dark_katana"
+  },
+  "show_notification": true
+}

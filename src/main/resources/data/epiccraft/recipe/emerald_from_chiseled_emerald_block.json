@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "emerald",
+  "ingredients": [
+    {
+      "item": "epiccraft:chiseled_emerald_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "minecraft:emerald"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "epiccraft:block/nezonita_crystal",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "epiccraft:block/nezonita_crystal",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "epiccraft:block/nezonita_crystal",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "epiccraft:block/nezonita_crystal",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "epiccraft:block/nezonita_crystal"
+    },
+    "facing=west": {
+      "model": "epiccraft:block/nezonita_crystal",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

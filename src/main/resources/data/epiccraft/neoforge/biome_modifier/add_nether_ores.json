@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_nether",
+  "features": [
+    "epiccraft:ore_nezonita"
+  ],
+  "step": "underground_ores"
+}

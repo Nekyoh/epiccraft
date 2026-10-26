@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "F": {
+      "item": "minecraft:firework_rocket"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "F",
+    "F",
+    "S"
+  ],
+  "result": {
+    "count": 1,
+    "id": "epiccraft:firework_sword"
+  },
+  "show_notification": true
+}

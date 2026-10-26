@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "epiccraft:item/tipped_obsidian_arrow_head",
+    "layer1": "minecraft:item/tipped_arrow_base"
+  }
+}

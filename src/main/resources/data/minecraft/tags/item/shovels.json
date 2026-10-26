@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "epiccraft:emerald_shovel",
+    "epiccraft:ruby_shovel",
+    "epiccraft:saphire_shovel",
+    "epiccraft:amethyst_shovel",
+    "epiccraft:nezonita_shovel",
+    "epiccraft:tekynita_shovel",
+    "epiccraft:copper_shovel",
+    "epiccraft:pink_iron_shovel"
+  ]
+}
